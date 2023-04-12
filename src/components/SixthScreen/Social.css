@@ -1,0 +1,35 @@
+.imgH {
+  display: block;
+  width: 93px;
+  margin-bottom: 28px;
+}
+.span15 {
+  width: 440px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.91;
+  letter-spacing: 0.05em;
+  color: #333333;
+  display: block;
+  margin-bottom: 36px;
+}
+
+.social {
+  width: 272px;
+  display: flex;
+  gap: 16px;
+}
+.btn {
+  background-color: #fff;
+  width: 32px;
+  height: 32px;
+
+  border-radius: 3px;
+  padding: 8px 9px;
+}
+
+.social-inner {
+  margin-right: 106px;
+}

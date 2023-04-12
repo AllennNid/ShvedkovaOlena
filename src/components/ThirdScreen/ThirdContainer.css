@@ -1,0 +1,20 @@
+.aboutUs {
+  padding-top: 109px;
+  padding-bottom: 55px;
+  display: flex;
+}
+.fonBlue {
+  background-color: rgba(0, 153, 255, 0.04);
+  width: 602px;
+  height: 602px;
+  border-radius: 50%;
+  position: relative;
+
+  margin-right: 36px;
+}
+.fonBlue img {
+  width: 560px;
+  position: absolute;
+  left: -20px;
+  bottom: 37px;
+}

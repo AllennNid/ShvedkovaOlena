@@ -1,0 +1,16 @@
+.footer {
+  background-color: #f1fafc;
+
+  padding-top: 98px;
+  padding-bottom: 105px;
+}
+
+.footer-inner {
+  display: flex;
+}
+
+.footer-menu {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}

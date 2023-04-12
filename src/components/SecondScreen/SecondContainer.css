@@ -1,0 +1,32 @@
+.StepChek {
+  background: rgba(215, 241, 246, 0.34);
+}
+
+.StepChek-inner {
+  padding-top: 107px;
+  padding-bottom: 132px;
+}
+.h6 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 50px;
+  left: 500px;
+  letter-spacing: 0.05em;
+  color: #333333;
+  text-align: center;
+}
+.h3 {
+  margin-bottom: 146px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 50px;
+  text-align: center;
+  letter-spacing: 0.05em;
+  color: #333333;
+  top: 100px;
+  left: 250px;
+}

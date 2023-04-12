@@ -1,0 +1,43 @@
+.FH6 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 50px;
+  letter-spacing: 0.01em;
+  color: #000000;
+  margin-top: 0;
+  margin-bottom: 37px;
+}
+
+form {
+  margin-bottom: 21px;
+}
+input {
+  width: 416px;
+  height: 74px;
+  padding-left: 20px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  letter-spacing: 0.04em;
+  background: #494949;
+  border-radius: 5px;
+  color: rgba(255, 255, 255, 0.61);
+  margin-bottom: 21px;
+}
+.btnSubscribe {
+  padding: 18px 59px;
+  background-color: #0099ff;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 27px;
+  text-decoration: none;
+  letter-spacing: 0.05em;
+  text-align: center;
+  border-radius: 5px;
+  color: #ffffff;
+}

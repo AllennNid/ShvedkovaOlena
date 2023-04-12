@@ -1,0 +1,18 @@
+.img1 {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: -72px;
+}
+.img2 {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: -72px;
+}
+.img3 {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: -72px;
+}

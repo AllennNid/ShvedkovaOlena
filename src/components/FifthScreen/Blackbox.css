@@ -1,0 +1,49 @@
+.blackbox {
+  background: #333333;
+  padding: 78px 74px 77px 82px;
+}
+
+.blackbox-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.whitetext {
+  width: 677px;
+  margin-top: 0;
+  margin-bottom: 48px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 50px;
+  letter-spacing: 0.01em;
+  color: #ffffff;
+}
+.span14 {
+  left: 60px;
+  width: 323px;
+  height: 28px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 156%;
+  letter-spacing: 0.05em;
+  color: #ffffff;
+}
+.btn_login {
+  background: #0099ff;
+  border-radius: 5px;
+  text-align: center;
+
+  padding: 15px 53px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+}
+.btn_log {
+  text-decoration: none;
+  color: #ffffff;
+}

@@ -1,0 +1,25 @@
+.testimonials {
+  padding-top: 47px;
+  padding-bottom: 52px;
+}
+.texttop {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 50px;
+  letter-spacing: 0.05em;
+  color: #333333;
+  margin-bottom: 21px;
+  margin-top: 0;
+}
+.texttop2 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 40px;
+  letter-spacing: 0.02em;
+  color: #333333;
+  margin-bottom: 58px;
+}
